@@ -7,6 +7,15 @@ worlds follow my actual timeline.
 **Play it:** open `index.html` in any browser — no build step, no dependencies,
 pure HTML5 Canvas + vanilla JavaScript.
 
+Download the repository with **Code → Download ZIP**, extract it, and open
+`index.html`. Alternatively, serve the extracted directory with
+`python -m http.server 8080` and open `http://localhost:8080`.
+
+[Automated playthrough checks](https://github.com/EdwardH-jedi/soonpermario/actions/workflows/ci.yml)
+run on pushes and pull requests. The automated bot uses scripted assistance;
+its success verifies the game can reach its ending, not human playability,
+mobile usability, or difficulty balance.
+
 ## The worlds (in résumé order)
 
 | World | Place | Résumé chapter |
